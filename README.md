@@ -120,8 +120,6 @@ I then moved on to visualizing the network's state (features) and, once I was ab
 
 ### Test a Model on New Images
 
-####1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
-
 To try to provide a better accuracy for the prediction of new images, I chose 21 images of German traffic signs from the web:
 
 <img src='./write-up/new-images/AheadOnly-Original.png' alt='Ahead Only' width='200'>&nbsp;&nbsp;&nbsp;<img src='./write-up/new-images/BicyclesCrossing-Original.png' alt='Bicycles Crossing' width='200'>&nbsp;&nbsp;&nbsp;<img src='./write-up/new-images/ChildrenCrossing-Original.png' alt='Children Crossing' width='200'><br />
